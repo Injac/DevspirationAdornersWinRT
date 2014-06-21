@@ -3,6 +3,8 @@ DevspirationAdornersWinRT
 
 A project that is a pure POC to test how an  adorner could be created for WinRT. Brought to you by @awsomedevsigner !
 
+More dev-fun on my   [blog](http://www.awsomedevisgner.com "Awsomedevsigners Blog") or my  [YouTube channel](https://www.youtube.com/user/ilijainjac "Awsomedevsigners YouTube channel.") 
+
 
 
                                                                               .@+`                                                    
